@@ -1,0 +1,28 @@
+Landing Page
+
+Epic:This is the first page user see when they browse the the website. It contians lots of information about the App and also lots of branding and advertising.
+Our own landing page has a hero image, sign up section, reviews, promotion of the App and many more. Its designed to cature the attention and intrest of the ussers.
+
+User Story : Users visit this page once they visit the App. Users scroll through the page for more detials and they can also sign up on the page.
+
+Color Indicator
+
+Epic: Color indicator for convenience by timezone (red=inconvenient/yellow=ok/green=most convenient)
+
+User Story: Users will get a visual representation of how convenient their choosen time zones are to other members after they select their time zone.
+
+User’s name input
+
+Epic: For users to type their names
+
+User Story: Users will use this to input their names into the system. It will enable group menbers to be easily identified.
+
+Show group’s availability 
+
+Epic : how many people are available at what time
+
+User Story : Users get to see how many members will e available for a particular time zone.
+
+
+
+
